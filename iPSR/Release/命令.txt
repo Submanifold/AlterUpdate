@@ -1,0 +1,1 @@
+./ipsr.exe --in aphrodite.xyz --out aphrodite.ply --pointWeight 1.0 --random_init 1 --depth 8

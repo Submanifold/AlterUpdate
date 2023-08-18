@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Github\AlterUpdate\iPSR\Src\main.cpp(397,22): warning C4244: “初始化”: 从“time_t”转换到“long”，可能丢失数据
+  [WARNING] You've got me MSVC
+  [WARNING] You've got me MSVC
+  [WARNING] You've got me MSVC
+  [WARNING] You've got me MSVC
+  [WARNING] You've got me MSVC
+  [WARNING] You've got me MSVC
+  PlyFile.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 16844 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  ipsr.vcxproj -> C:\Github\AlterUpdate\iPSR\Release\ipsr.exe

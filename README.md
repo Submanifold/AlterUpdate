@@ -30,5 +30,18 @@ We slightly modified the CGAL example "Point_set_processing_3/edges_example.cpp"
 
 
 ## Citation
-To be updated.
+```
+@article{XIAO2023139,
+title = {Alternately denoising and reconstructing unoriented point sets},
+journal = {Computers & Graphics},
+volume = {116},
+pages = {139-149},
+year = {2023},
+issn = {0097-8493},
+doi = {https://doi.org/10.1016/j.cag.2023.08.011},
+url = {https://www.sciencedirect.com/science/article/pii/S0097849323001784},
+author = {Dong Xiao and Zuoqiang Shi and Bin Wang}
+}
+```
+
 
